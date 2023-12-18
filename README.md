@@ -1,0 +1,1 @@
+# Analyzing-Artist-Pattern-using-two-techniques
